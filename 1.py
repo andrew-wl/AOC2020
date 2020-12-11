@@ -34,4 +34,4 @@ def main(f):
 
 
 if __name__ == '__main__':
-	main('input.txt')
+	main('input1.txt')
